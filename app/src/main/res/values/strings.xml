@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <string name="app_title">PDF Viewer</string>
+    <string name="app_subtitle">Pick a PDF from your device and read it right here in the app.</string>
+    <string name="open_pdf">Open PDF</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="picker_error">No document picker is available on this device</string>
+    <string name="page_indicator">Page %1$d / %2$d</string>
+    <string name="zoom_in">Zoom in</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="back">Back</string>
+    <string name="error_no_file">No PDF file was provided.</string>
+    <string name="error_open_failed">Unable to open this PDF. The file may be corrupted or not a valid PDF.</string>
+    <string name="error_password">This PDF is password-protected and cannot be opened.</string>
+</resources>
